@@ -11,6 +11,6 @@
 * [Engine](https://github.com/Space-Station-Multiverse/RobustToolbox)
 * [Content](https://github.com/Space-Station-Multiverse/space-station-14)
 * [Launcher](https://github.com/Skyedra/SS14.Launcher/)
-* [Web](https://github.com/Skyedra/SS14.Web)
+* [Hub](https://github.com/Skyedra/SS14.Web)
 * [Manifest Generator](https://github.com/Skyedra/ss14ManifestGenerator)
 * [Build Mirror](https://github.com/Skyedra/ss14BuildMirror)
