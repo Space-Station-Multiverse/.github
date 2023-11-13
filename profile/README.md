@@ -1,4 +1,4 @@
-# Multiverse
+![library logo](https://github.com/Space-Station-Multiverse/.github/assets/22365940/e4c6bce7-072d-4f83-9a28-ec48bfcc7830)
 
 ## Info
 
