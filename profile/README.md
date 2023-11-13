@@ -12,5 +12,6 @@
 * [Content](https://github.com/Space-Station-Multiverse/space-station-14)
 * [Launcher](https://github.com/Skyedra/SS14.Launcher/)
 * [Hub](https://github.com/Skyedra/SS14.Web)
-* [Manifest Generator](https://github.com/Skyedra/ss14ManifestGenerator)
+* [Manifest Generator - Content](https://github.com/Skyedra/ss14ManifestGenerator)
+* [Manifest Generator - Engine](https://github.com/Space-Station-Multiverse/engineManifestGenerator)
 * [Build Mirror](https://github.com/Skyedra/ss14BuildMirror)
